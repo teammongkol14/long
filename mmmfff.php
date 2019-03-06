@@ -1,5 +1,5 @@
 <?php
  echo "aintaintmongkol";
-echo "aaaaaaaaaaaaaaaaa
+echo "aaaaaaaaaaaaaaaaaecho "aintaintmongkol";echo "aintaintmongkol";echo "aintaintmongkol";echo "aintaintmongkol";echo "aintaintmongkol";echo "aintaintmongkol";echo "aintaintmongkol";echo "aintaintmongkol";
 ";
 ?>
